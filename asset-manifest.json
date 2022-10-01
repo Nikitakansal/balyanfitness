@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/balyanfitness/static/css/main.2c239b6e.css",
+    "main.js": "/balyanfitness/static/js/main.daff801f.js",
+    "static/js/787.eca1a89e.chunk.js": "/balyanfitness/static/js/787.eca1a89e.chunk.js",
+    "static/media/image3.png": "/balyanfitness/static/media/image3.98ab2ad5dda2fd573286.png",
+    "static/media/image4.png": "/balyanfitness/static/media/image4.f1446ffbfeafb01c2be1.png",
+    "static/media/image1.png": "/balyanfitness/static/media/image1.e6855fdb53082afb5ad6.png",
+    "static/media/image2.png": "/balyanfitness/static/media/image2.fb5aad824776c22874ce.png",
+    "index.html": "/balyanfitness/index.html",
+    "main.2c239b6e.css.map": "/balyanfitness/static/css/main.2c239b6e.css.map",
+    "main.daff801f.js.map": "/balyanfitness/static/js/main.daff801f.js.map",
+    "787.eca1a89e.chunk.js.map": "/balyanfitness/static/js/787.eca1a89e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c239b6e.css",
+    "static/js/main.daff801f.js"
+  ]
+}
